@@ -4,7 +4,7 @@
 
 I'm a Team Lead with **8+ years** of embedded systems engineering experience, specializing in **automotive AUTOSAR development** and **ECU firmware design**. Currently leading firmware development for automotive lighting systems at DH Lighting India, I've successfully delivered production-grade software for major international OEMs including **MAN**, **HKMC (Hyundai-Kia)**, and **BMW suppliers**. My expertise spans safety-critical automotive systems, real-time embedded platforms (FreeRTOS, Zephyr RTOS), and IoT solutions with Edge AI.
 
-Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I architected the KRAASHAK IoT Soil Analytics platform, scaling deployment to **500+ devices** with on-device ML algorithms. Proficient in AUTOSAR Classic architecture, UDS diagnostics, Renesas RH850 platforms, and Vector tools (CANoe/CANape). Passionate about building robust, scalable embedded systems and mentoring technical teams to deliver innovative solutions in automotive and IoT domains.
+Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I architected the KRAASHAK IoT Soil Analytics platform, Proficient in AUTOSAR Classic architecture, UDS diagnostics, Renesas RH850 platforms, and Vector tools (CANoe/CANape). Passionate about building robust, scalable embedded systems and mentoring technical teams to deliver innovative solutions in automotive and IoT domains.
 
 ---
 
