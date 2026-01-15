@@ -24,15 +24,26 @@ Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHAI-TIWARI&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ABHAI-TIWARI&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAI-TIWARI&layout=compact&theme=radical&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHAI-TIWARI&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHAI-TIWARI&theme=radical&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHAI-TIWARI&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABHAI-TIWARI&theme=radical&utcOffset=5.5)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ABHAI-TIWARI&theme=radical&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -64,10 +75,17 @@ Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I
 
 ---
 
-### 🏆 Achievements
+### 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ABHAI-TIWARI&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🏅 Achievements
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ABHAI-TIWARI&color=brightgreen&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/ABHAI-TIWARI?style=social)](https://github.com/ABHAI-TIWARI)
+[![GitHub Stars](https://img.shields.io/github/stars/ABHAI-TIWARI?style=social)](https://github.com/ABHAI-TIWARI)
 
 ---
 
