@@ -24,7 +24,7 @@ Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHAI-TIWARI&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhai-tiwari&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
