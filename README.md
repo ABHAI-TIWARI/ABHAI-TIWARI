@@ -2,13 +2,14 @@
 
 ## 🚗 Embedded Systems Engineer & Team Lead | AUTOSAR Specialist
 
-I'm a Automotive Software Engineer with **8+ years** of embedded systems engineering experience, specializing in **automotive AUTOSAR development** and **ECU firmware design**. Currently leading firmware development for automotive lighting systems at DH Lighting India, I've successfully delivered production-grade software for major international OEMs including **MAN**, **HKMC (Hyundai-Kia)**, and **BMW suppliers**. My expertise spans safety-critical automotive systems, real-time embedded platforms (FreeRTOS, Zephyr RTOS), and IoT solutions with Edge AI.
+I'm an Automotive Software Engineer with **8+ years** of embedded systems engineering experience, specializing in **automotive AUTOSAR development** and **ECU firmware design**. Currently leading firmware development for automotive lighting systems at DH Lighting India, I've successfully delivered production-grade software for major international OEMs including **MAN**, **HKMC (Hyundai-Kia)**, and **BMW suppliers**. My expertise spans safety-critical automotive systems, real-time embedded platforms (FreeRTOS, Zephyr RTOS), and IoT solutions with Edge AI.
 
-Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I architected the KRAASHAK IoT Soil Analytics platform, Proficient in AUTOSAR Classic architecture, UDS diagnostics, Renesas RH850 platforms, and Vector tools (CANoe/CANape). Passionate about building robust, scalable embedded systems and mentoring technical teams to deliver innovative solutions in automotive and IoT domains.
+Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I architected the KRAASHAK IoT Soil Analytics platform. Proficient in AUTOSAR Classic architecture, UDS diagnostics, Renesas RH850 platforms, and Vector tools (CANoe/CANape). Passionate about building robust, scalable embedded systems and mentoring technical teams to deliver innovative solutions in automotive and IoT domains.
 
 ---
 
 ### 🛠️ Tech Stack
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,11 +25,21 @@ Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhai-tiwari&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHAI-TIWARI&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAI-TIWARI&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHAI-TIWARI&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ### 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhai-tiwari-7906aab3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.abhay44@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://abhai-tiwari.github.io)
@@ -36,6 +47,7 @@ Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I
 ---
 
 ### 🎯 Current Focus
+
 - 🔭 Leading automotive ECU firmware development projects
 - 🌱 Exploring AUTOSAR Adaptive Platform and autonomous driving technologies
 - 👯 Open to collaborating on embedded systems and automotive software projects
@@ -45,9 +57,17 @@ Co-founded a **MeitY-backed AgriTech startup** (AIGROEDGE Technologies), where I
 ---
 
 ### 📚 Recent Publications
+
 - **IEEE GUCON 2020** - Machine Learning & Edge IoT Based Food Quality Monitoring System
 - **Sensor Letters 2020** - Multispectral Spectroscopic Sensing System for Raw Milk Quality
 - **RACCCS 2017** - Environment Monitoring System Using Internet of Things
+
+---
+
+### 🏆 Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=ABHAI-TIWARI&color=brightgreen&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/ABHAI-TIWARI?style=social)](https://github.com/ABHAI-TIWARI)
 
 ---
 
