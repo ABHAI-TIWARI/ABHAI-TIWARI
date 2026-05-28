@@ -2,11 +2,11 @@
 
 ## 🚗 Embedded Systems Engineer | Team Lead | AUTOSAR, SoC & Linux Driver Developer
 
-I am an **Automotive Software Engineer** with **8+ years of experience** in embedded systems development, specializing in **AUTOSAR-based automotive software**, **ECU firmware design**, and **embedded product engineering**.
+I am an **Automotive Software Engineer** with **8+ years of experience** in embedded systems development, specializing in **AUTOSAR-based automotive software**, **ECU firmware design**, and **embedded Linux system development**.
 
-My work spans **AUTOSAR Classic architecture**, **UDS diagnostics**, **bootloader and low-level firmware development**, and embedded platforms such as **Renesas RH850**, **STM32**, **ESP32**, and **ARM Cortex-M**. Recently, I have also been expanding my expertise into **SoC architecture**, **ARM Cortex-A series processors**, **AArch64**, **MMU**, **SMMU**, and **Linux device driver development**, with a strong interest in **high-performance embedded computing** and **system-level software design**.
+My work spans **AUTOSAR Classic architecture**, **UDS diagnostics**, **bootloader and low-level firmware development**, and embedded platforms such as **Renesas RH850**, **STM32**, **ESP32**, and **ARM-based SoCs**.
 
-I also co-founded a **MeitY-backed AgriTech startup**, **AIGROEDGE Technologies**, where I architected the **KRAASHAK IoT Soil Analytics Platform**, combining embedded systems, IoT, and intelligent sensing for real-world impact.
+I also co-founded a **MeitY-backed AgriTech startup**, **AIGROEDGE Technologies**, where I architected the **KRAASHAK IoT Soil Analytics Platform**, combining embedded systems, IoT, and intelligent sensing technologies.
 
 ---
 
@@ -17,6 +17,7 @@ I also co-founded a **MeitY-backed AgriTech startup**, **AIGROEDGE Technologies*
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ### Version Control & Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
